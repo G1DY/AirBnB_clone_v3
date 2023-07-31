@@ -1,4 +1,3 @@
-#!/usr/bin/python3
 """creates variable app, instance of Flask"""
 from flask import Flask
 from models import storage
